@@ -6,11 +6,17 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+-   l'initialisation d'un projet ✔️ -> `git init`
+-   travailler avec des branches ✔️ ->
+
+```
+git branch new-branch
+git checkout new-branch
+```
+
+-   faire une PR ❌ / ✔️
+-   utiliser git rebase pour faire des commits propres ❌ / ✔️
+-   utiliser les gitHub actions ❌ / ✔️
 
 ## 💻 J'utilise
 
@@ -36,8 +42,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+-   lien
+-   description
 
 ## 🚧 Je franchis les obstacles
 
@@ -47,13 +53,13 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+-   action 1 ❌ / ✔️
+-   action 2 ❌ / ✔️
+-   ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+-   J'ai ecrit un [tutoriel](...) ❌ / ✔️
+-   J'ai fait une [présentation](...) ❌ / ✔️

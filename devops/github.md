@@ -14,7 +14,7 @@ git branch new-branch
 git checkout new-branch
 ```
 
--   faire une PR ❌ / ✔️
+-   faire une PR ✔️ -> sur github.com, créer un PR avec commentaire
 -   utiliser git rebase pour faire des commits propres ❌ / ✔️
 -   utiliser les gitHub actions ❌ / ✔️
 

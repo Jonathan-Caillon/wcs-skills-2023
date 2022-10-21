@@ -37,8 +37,8 @@ Objects (with properties && methods)
 ### Un exemple de code commenté ✔️
 
 ```javascript
-// This function changed everything !!
-;(e) => mc2
+// This changed everything !!
+const changeEverything = (e) => mc2
 ```
 
 ### Utilisation dans un projet ✔️

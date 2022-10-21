@@ -25,7 +25,7 @@ Object
 ```
 
 -   comment et pourquoi étendre une interface ✔️ -> `interface ... extends` permet de réutiliser des types déjà précisés, et donc écrir moins de code et d'être **DRY**
--   les classes et les decorators ❌ / ✔️
+-   les classes et les decorators ✔️ -> Classes are used to create objects. Decorators are used to add functionality to classes and methods
 
 ## 💻 J'utilise
 

@@ -50,19 +50,13 @@ app.post('/articles', (req, res) => {
 })
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[interne-atalante](https://github.com/Holmes-EH/interne-atalante/tree/main/api)
+[interne-atalante github](https://github.com/Holmes-EH/interne-atalante/tree/main/api)
 
 Description :
 Ceci est un début de création d'un site intranet full stack. Le lien ci-dessus pointe vers le dossier contenant l'api rest. Codé en PHP orienté objet. Database : MySQL en localhost connecté avec PDO_MySQL.  
 Le frontend est en React
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
-
-Description :
 
 ### Utilisation en environement professionnel ❌ / ✔️
 

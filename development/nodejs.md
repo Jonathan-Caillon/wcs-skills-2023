@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Comment développer en utilisant un système de *livereloading* (`nodemon` par exemple) ❌ / ✔️
-- La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
-- Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ❌ / ✔️
-- *Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS* ❌ / ✔️
+-   Comment développer en utilisant un système de _livereloading_ (`nodemon` par exemple) ✔️ -> Une fois installé, modifier la commande npm start dans le fichier package.json pour y lancer le process avec le paquet installé. ex : `npm start : "nodemon src/index.js`
+-   La connexion de mon application à une base de données avec et sans ORM/ODM (avec `mongodb` puis `mongoose` par exemple) ❌ / ✔️
+-   Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql` par exemple) ✔️
+-   _Bonus : la manipulation des fichiers système avec `fs` et l'utilisation des streams en NodeJS_ ❌ / ✔️
 
 ## 💻 J'utilise
 
@@ -41,8 +41,8 @@ Description :
 
 ### Titre
 
-- lien
-- description
+-   lien
+-   description
 
 ## 🚧 Je franchis les obstacles
 
@@ -52,13 +52,13 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+-   action 1 ❌ / ✔️
+-   action 2 ❌ / ✔️
+-   ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+-   J'ai ecrit un [tutoriel](...) ❌ / ✔️
+-   J'ai fait une [présentation](...) ❌ / ✔️

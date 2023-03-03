@@ -1,4 +1,4 @@
-# Période en entreprise du 26/09/2020 au 14/10/2020
+# Période en entreprise du 26/09/2022 au 14/10/2022
 
 > Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
 
@@ -51,6 +51,6 @@
 -   Terraform
 
 6. Quel design pattern as tu pu identifier ?  
-   Je n'ai pas beaucoup mis le nez dedans, mais tous les serveurs sont en REST
+   Je n'ai pas beaucoup mis le nez dedans, mais toutes les api sont en REST
 
 7. Sur quel point ton formateur ou ton groupe peuvent ils t'aider ?

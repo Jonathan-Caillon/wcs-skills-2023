@@ -6,16 +6,16 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les tests unitaires ❌ / ✔️
-- les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
-- les tests de bout en bout (end to end) ❌ / ✔️
-- le TDD ❌ / ✔️
+- les tests unitaires ✔️ -> Des test pour tester le bon fontcionnement de fonctions individuelement
+- les mocks ✔️ -> Des fonctions qui simulent le comportement d'une fonctionnalité
+- les tests d'integration ✔️ -> Des tests qui vérifient le bon fonctionnement de plusieurs fonctions ensemble
+- les tests de bout en bout (end to end) ✔️ -> Des tests qui vérifient le bon fonctionnement de l'application dans son ensemble
+- le TDD  ✔️ -> Le développement piloté par les tests
 - les tests par snapshot ❌ / ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
 ### Utilisation dans un projet ❌ / ✔️
 
